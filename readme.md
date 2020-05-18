@@ -1,8 +1,17 @@
 # redes en  windows 
 
+### temas a dominar
+
+ * Conexión vpn   ping, packping, tracer
+ * interfaces de red 
+ * DACP , APIPA, DNS
+ * Reglas preinstaladas y propias
+ * perfiles de red 
+
+
 -1 fundamentos de redes 
 
-¿como conectarnos a una red internet con Wifi?
+¿como conectarnos a una red por ethernet con Wifi?
 
 en la opcines de windows wifi ponemos la contraseña de nuestra red wifi y en el boton de propiedades puedo configurarla para que sea privada 
 
